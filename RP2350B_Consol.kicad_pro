@@ -266,9 +266,7 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "+5V": "+5V"
-    },
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -388,6 +386,14 @@
     [
       "6e8f208f-ca10-4f24-b31c-14a8c528e849",
       "Корневой лист"
+    ],
+    [
+      "2a751d28-9cce-45c0-be93-153981d85cd6",
+      "MOC6502"
+    ],
+    [
+      "e3ce755a-b3ff-4652-8810-baffe7a99d3c",
+      "Z80"
     ]
   ],
   "text_variables": {}
