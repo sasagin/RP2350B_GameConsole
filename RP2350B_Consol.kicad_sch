@@ -11806,7 +11806,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PicoSegaLibrary:PJ320D_3.5mm_Jack"
+		(property "Footprint" "Library:PJ320D_3.5mm_Jack"
 			(at 187.706 224.282 0)
 			(effects
 				(font
@@ -13237,7 +13237,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PicoSegaLibrary:RP2040_purple_allPin"
+		(property "Footprint" "Library:RP2040_purple_allPin"
 			(at 279.4 177.8 0)
 			(effects
 				(font
