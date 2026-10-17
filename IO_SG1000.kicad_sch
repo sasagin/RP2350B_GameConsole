@@ -4051,6 +4051,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.83 29.21) (xy 44.45 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bbd44a7-7baf-4531-b41b-58cf889cf31b")
+	)
+	(wire
+		(pts
 			(xy 87.63 96.52) (xy 87.63 100.33)
 		)
 		(stroke
@@ -4098,6 +4108,16 @@
 			(type default)
 		)
 		(uuid "43fe3f4c-6e19-46f9-90ef-a1c1cf40950f")
+	)
+	(wire
+		(pts
+			(xy 62.23 26.67) (xy 57.15 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c7c7075-40ae-4fc5-9d3f-c45c5e590cf8")
 	)
 	(wire
 		(pts
@@ -4391,16 +4411,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 26.67) (xy 57.15 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d56d0afe-82c4-4212-aabd-d8de0f365574")
-	)
-	(wire
-		(pts
 			(xy 214.63 80.01) (xy 218.44 80.01)
 		)
 		(stroke
@@ -4518,16 +4528,6 @@
 			(type default)
 		)
 		(uuid "ee9f5ab3-5a7b-4fe9-a263-9af25801ecf9")
-	)
-	(wire
-		(pts
-			(xy 36.83 66.04) (xy 44.45 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eea1ec11-05ae-4bcc-83f9-86a14edfacbb")
 	)
 	(wire
 		(pts
@@ -4845,7 +4845,7 @@
 		(uuid "7b0af3b7-2713-4840-b285-703d868c5270")
 	)
 	(label "~{WAIT_PSG}"
-		(at 36.83 66.04 180)
+		(at 36.83 29.21 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
