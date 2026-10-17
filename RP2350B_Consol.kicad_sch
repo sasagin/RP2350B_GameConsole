@@ -7451,7 +7451,7 @@
 	)
 	(text "CLK_PSG=CLK_SSG"
 		(exclude_from_sim no)
-		(at 321.818 140.208 0)
+		(at 322.326 141.732 0)
 		(effects
 			(font
 				(size 1.27 1.27)
